@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: iran;
+}
+@font-face {
+    font-family: iran;  
+    src: url(../font/BYekan.ttf) ;
+    src: url(../font/BYekan.eot );
+    src: url(../font/BYekan.woff );
+     src: url(../font/BYekan.woff2 );
+}
