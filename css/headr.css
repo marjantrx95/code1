@@ -158,6 +158,7 @@
             .gray {
               display: block;
             }
+           
           }
           .gray {
             width: 100%;
@@ -220,7 +221,9 @@
                       &:hover {
                         background-color: beige;
                         color: crimson;
+                       
                       }
+                     
                     }
 
                     .left1 {
@@ -279,7 +282,8 @@
                               }
                               &:hover {
                                 color: rgb(238, 50, 88);
-                              }
+  }
+   
                             }
                           }
                           .fourlink {
